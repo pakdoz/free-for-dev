@@ -1021,6 +1021,10 @@ Table of Contents
   * [superfeedr.com](https://superfeedr.com/) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
   * [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online.  Free plan allows only 10 questions and 100 responses per survey.
   * [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online
+  
+## Image Optimization
+
+  * [ZipPNG](https://www.zippng.com/) - Free Real-Time Image Optimization & Manipulation Service.
 
 ## Other Free Resources
 
